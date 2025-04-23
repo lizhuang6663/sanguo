@@ -46,26 +46,19 @@
    ```
 4. 按照游戏提示进行操作。
 
+
+
+
 ## 演示视频
 
-我已经在B站上传了这个游戏的演示视频，欢迎观看和反馈！\
-📺 三国格斗小游戏演示
-
-## 未来改进
-
-- 添加更多的角色和技能，丰富游戏内容。
-- 引入图形界面（例如使用JavaFX或Swing），提升游戏的可视化效果。
-- 优化战斗逻辑，增加难度等级和关卡设计。
-
-## 总结
-
-这是我的一个Java学习项目，通过开发这个三国格斗小游戏，我对Java编程和游戏开发有了初步的了解。未来我会继续学习，改进这个游戏！
-
-## 许可声明
-
-此项目仅用于学习目的，不用于商业用途。
+我已经在B站上传了这个游戏的演示视频，欢迎观看和反馈！
+📺 [三国格斗小游戏演示](https://www.bilibili.com/video/BV1Qc411W75L/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e2f6edb68f421b13075178535968e307)
 
 
+
+## 演示图片
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/29c89bd0-71e9-4ca6-b31d-77e605a48433" />
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/3953bd8e-58d8-4b22-9cd8-b74e738e8194" />
 
@@ -78,3 +71,5 @@
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/28fba642-ecdc-4138-a0f7-ccbb23dd04ef" />
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/432fbb0b-323d-4fb4-9f1f-cc10c6618301" />
+
+
